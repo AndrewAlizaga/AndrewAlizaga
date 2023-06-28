@@ -3,6 +3,7 @@ Sr Backend Developer
 Current Main Language: Golang
 
 Currently, I'm working in the AI field at Vozy https://www.vozy.co
+
 My main interests are Artificial intelligence, Robotics & Machine Learning
 
 I like to create/invent new things, it brings me fulfillment
