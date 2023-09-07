@@ -3,7 +3,7 @@ Sr Backend Developer <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-
 </h1>
 
 
-<h4>Currently, I'm working in the AI field at Vozy https://www.vozy.co</br>
+<h4>Currently, I'm working in the AI field at <a href="https://www.vozy.co">Vozy</a></br>
 My main interests are Artificial intelligence, BlockChain, Robotics & Machine Learning</h4>
 
 <div align='left'>
