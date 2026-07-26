@@ -3,8 +3,8 @@ Sr Backend Developer <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-
 </h1>
 
 
-<h4>Currently, I'm working at <a href="https://www.artistgrowth.com/" target="_blank" rel="noopener noreferrer">Artist Growth</a></br>
-My main interests are Artificial intelligence, BlockChain, Robotics & Machine Learning</h4>
+<h4>Currently, I'm working at <a href="https://www.ioet.com/" target="_blank" rel="noopener noreferrer">IOET</a></br>
+My main interests are Backend Development, Software Architecture, AI & Machine Learning</h4>
 
 <div align='left'>
   <a href="https://github.com/AndrewAlizaga">
@@ -45,7 +45,7 @@ My main interests are Artificial intelligence, BlockChain, Robotics & Machine Le
 </div>
 
 <h5 style="margin-top: 6vw; align: left;">
-  I like to create/invent new things, it brings me fulfillment
+  I like to create/invent new things; it brings me fulfillment
   <br>
       🎶 A nice song 🎶 : https://open.spotify.com/track/3ccAZx3wLZDVB2Nq6rikf9?si=604e48d85f524ee2
 
